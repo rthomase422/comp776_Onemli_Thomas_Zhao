@@ -26,9 +26,11 @@ TestMetrics
 
 ![my_test_metrics](https://user-images.githubusercontent.com/77972621/236581061-4d286f27-2dd5-468e-945f-14bff6548c67.png)
 
-<a href="https://universe.roboflow.com/comp-776/comp776_final_project_fulldataset/model/">
-    <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
+
+<a href="https://universe.roboflow.com/comp-776/comp776_final_project_fulldataset">
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
 </a>
+
 
 <a href="https://universe.roboflow.com/comp-776/comp776_final_project_fulldataset/model/">
     <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
