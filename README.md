@@ -8,6 +8,7 @@ Instructions:
             4. Run the code in the Jupyter Lab Notebook
             5. Enjoy! :)
       
+Link to YOLOv8 Model Trained on Custom Roboflow Dataset: https://universe.roboflow.com/comp-776/comp776_final_project_fulldataset 
 
 Metrics Overview
 
