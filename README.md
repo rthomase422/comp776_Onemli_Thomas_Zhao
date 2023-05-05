@@ -11,7 +11,7 @@ Instructions:
 
 Metrics Overview
 
-![my_overview_metrics](https://user-images.githubusercontent.com/77972621/236581186-c736031c-e338-4f44-901b-e263563758c1.png)
+![my_train_metrics_large](https://user-images.githubusercontent.com/77972621/236582001-3c01a3eb-f9ca-442d-bdd6-6b9468ec9d86.png)
 
 Training Metrics
 
