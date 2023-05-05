@@ -1,6 +1,7 @@
 # comp776_Onemli_Thomas_Zhao
 
 Instructions:
+
             1. Download the repo and go to the Jupyter Lab Notebook file
             2. Download any necessary python packages
             3. Make sure that the Selenium Driver is configured for your default Web Browser
