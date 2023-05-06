@@ -12,6 +12,19 @@ Link to Roboflow 2.0 Model Trained on Custom Dataset: https://universe.roboflow.
 
 Link to Google Colab Yolov8 Model Trained on Custom Dataset: https://colab.research.google.com/drive/1OPtwzHZ2k6r-U8wVUER63kee1oyKMuGL?usp=sharing
 
+# Google Colab Yolov8
+
+Google Colab Confusion Matrix
+
+<img width="604" alt="Screenshot 2023-05-05 at 10 06 20 PM" src="https://user-images.githubusercontent.com/77972621/236593361-1a0fd553-cad9-4e85-ad6e-6b25bf0bfc92.png">
+
+
+Google Colab Training Metrics
+
+<img width="605" alt="Screenshot 2023-05-05 at 10 06 32 PM" src="https://user-images.githubusercontent.com/77972621/236593310-0b0bea2a-b981-47c3-b719-ced06a623009.png">
+
+# Roboflow 2.0
+
 Roboflow Metrics Overview
 
 ![my_train_metrics_large](https://user-images.githubusercontent.com/77972621/236582001-3c01a3eb-f9ca-442d-bdd6-6b9468ec9d86.png)
@@ -36,15 +49,5 @@ Roboflow Test Metrics
 <a href="https://universe.roboflow.com/comp-776/comp776_final_project_fulldataset/model/">
     <img src="https://app.roboflow.com/images/try-model-badge.svg"></img>
 </a>
-
-
-Google Colab Confusion Matrix
-
-<img width="604" alt="Screenshot 2023-05-05 at 10 06 20 PM" src="https://user-images.githubusercontent.com/77972621/236593361-1a0fd553-cad9-4e85-ad6e-6b25bf0bfc92.png">
-
-
-Google Colab Training Metrics
-
-<img width="605" alt="Screenshot 2023-05-05 at 10 06 32 PM" src="https://user-images.githubusercontent.com/77972621/236593310-0b0bea2a-b981-47c3-b719-ced06a623009.png">
 
 
