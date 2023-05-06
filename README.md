@@ -46,7 +46,3 @@ Google Colab Training Metrics
 <img width="605" alt="Screenshot 2023-05-05 at 10 06 32 PM" src="https://user-images.githubusercontent.com/77972621/236593310-0b0bea2a-b981-47c3-b719-ced06a623009.png">
 
 
-Google Colab Training Results Image
-
-<img width="605" alt="Screenshot 2023-05-05 at 10 06 58 PM" src="https://user-images.githubusercontent.com/77972621/236593402-34ce6b4a-a4d1-4e78-8831-214478e4e3fe.png">
-
