@@ -1,0 +1,27 @@
+,id,name,supercategory
+0,0,Food-Ingredients,none
+1,1,apple,Food-Ingredients
+2,2,banana,Food-Ingredients
+3,3,beef,Food-Ingredients
+4,4,bell pepper,Food-Ingredients
+5,5,bread,Food-Ingredients
+6,6,cabbage,Food-Ingredients
+7,7,carrot,Food-Ingredients
+8,8,chicken,Food-Ingredients
+9,9,egg,Food-Ingredients
+10,10,eggplant,Food-Ingredients
+11,11,garlic,Food-Ingredients
+12,12,leek,Food-Ingredients
+13,13,lettuce,Food-Ingredients
+14,14,mushroom,Food-Ingredients
+15,15,onion,Food-Ingredients
+16,16,orange,Food-Ingredients
+17,17,pork,Food-Ingredients
+18,18,potato,Food-Ingredients
+19,19,radish,Food-Ingredients
+20,20,red pepper,Food-Ingredients
+21,21,rice,Food-Ingredients
+22,22,sausage,Food-Ingredients
+23,23,tofu,Food-Ingredients
+24,24,tomato,Food-Ingredients
+25,25,zucchini,Food-Ingredients
