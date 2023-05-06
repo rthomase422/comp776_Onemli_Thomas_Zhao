@@ -12,6 +12,8 @@ Link to Roboflow 2.0 Model Trained on Custom Dataset: https://universe.roboflow.
 
 Link to Google Colab Yolov8 Model Trained on Custom Dataset: https://colab.research.google.com/drive/1OPtwzHZ2k6r-U8wVUER63kee1oyKMuGL?usp=sharing
 
+Link to Custom Faster-RCNN Model Trained on Custom Dataset: https://drive.google.com/drive/folders/1_zKWY-HXoXQrn-Yx5coDliRnH_OMT4mq?usp=sharing
+
 # Google Colab Yolov8
 
 Google Colab Confusion Matrix
