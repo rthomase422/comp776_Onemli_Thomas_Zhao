@@ -8,7 +8,9 @@ Instructions:
             4. Run the code in the Jupyter Lab Notebook
             5. Enjoy! :)
       
-Link to YOLOv8 Model Trained on Custom Roboflow Dataset: https://universe.roboflow.com/comp-776/comp776_final_project_fulldataset 
+Link to Roboflow 2.0 Model Trained on Custom Dataset: https://universe.roboflow.com/comp-776/comp776_final_project_fulldataset 
+
+Link to Google Colab Yolov8 Model Trained on Custom Dataset: https://colab.research.google.com/drive/1OPtwzHZ2k6r-U8wVUER63kee1oyKMuGL?usp=sharing
 
 Roboflow Metrics Overview
 
